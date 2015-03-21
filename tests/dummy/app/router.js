@@ -6,6 +6,10 @@ var Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.route('planet', function() {
+    this.route('earth');
+    this.route('mars');
+  });
 });
 
 export default Router;
