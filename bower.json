@@ -1,5 +1,5 @@
 {
-  "name": "ember-css-modules",
+  "name": "ember-css-routes",
   "dependencies": {
     "jquery": "^1.11.1",
     "ember": "1.10.0",

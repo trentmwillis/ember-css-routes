@@ -32,7 +32,7 @@ var walkDir = function(dir, relDir) {
 }
 
 module.exports = {
-  name: 'ember-css-modules',
+  name: 'ember-css-routes',
   included: function() {
     var styleFiles, styleMappings;
     stylesDir = path.join(this.app.project.root, 'app/styles');

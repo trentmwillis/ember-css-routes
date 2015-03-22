@@ -1,7 +1,7 @@
 {
-  "name": "ember-css-modules",
+  "name": "ember-css-routes",
   "version": "0.0.1",
-  "description": "A routes-based approach to serving CSS in modules.",
+  "description": "A routes-based approach to serving CSS",
   "directories": {
     "doc": "doc",
     "test": "tests"
